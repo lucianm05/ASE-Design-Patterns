@@ -2,7 +2,7 @@ package a9;
 
 // Deoarece Spitalul este supraaglomerat se impune ca atunci când pacienții doresc internarea să fie internate doar personale care au asigurare de sănătate. Sa se realizeze un nivel intermediar care sa permită internarea doar acestor persoane. 
 
-// =>
+// => Proxy
 
 public class Main {
 

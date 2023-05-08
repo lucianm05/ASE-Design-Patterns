@@ -1,8 +1,6 @@
 package a6;
 
 public class Facade {
-	
-	
 	public void internarePacient(Pacient pacient, Spital spital) {
 		Medic medic = spital.getMedic();
 		
